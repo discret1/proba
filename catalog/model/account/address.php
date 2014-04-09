@@ -139,4 +139,5 @@ class ModelAccountAddress extends Model {
 		return $query->row['total'];
 	}
 }
+//бубубубу
 ?>
